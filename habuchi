@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Responsive </title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <img src="airbus.jpg.png" style="width:100%, height:auto;" class="ecimg1">
+
+    </head>
+
+    <body>
+
+        <h1> Viewport </h1>
+        <p style="font-size: 5vw;"> Airbus is a global pioneer in the aerospace industry, operating in the commercial aircraft, helicopters, defence and space sectors. Airbus is a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a worldwide scale.</p>
+    
+    </body>
+
+</html> 
